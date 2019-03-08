@@ -1,6 +1,7 @@
 ---
 title: The Mai Tai
 date: "2015-05-01T22:12:03.284Z"
+description: "About the Mai Tai, the best, rum cocktail"
 ---
 
 The Mai Tai is a cocktail based on rum, Curaçao liqueur, orgeat syrup, and lime juice, associated with Polynesian-style settings.

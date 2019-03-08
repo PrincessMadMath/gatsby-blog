@@ -1,6 +1,7 @@
 ---
 title: The Planter Punch
 date: "2018-05-01T22:12:03.284Z"
+description: "From a darker side of history..."
 ---
 
 Planter's Punch is an IBA Official Cocktail made of dark rum, several juices, grenadine syrup, sugar syrup, and Angostura bitters.[1]
