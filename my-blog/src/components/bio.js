@@ -6,7 +6,7 @@
  */
 
 import React from "react"
-import { StaticQuery, graphql } from "gatsby"
+import { StaticQuery, graphql, Link } from "gatsby"
 import Image from "gatsby-image"
 
 import { rhythm } from "../utils/typography"
@@ -40,6 +40,9 @@ function Bio() {
             <p>
               Written by <strong>{author}</strong> who drink and mix cocktails
               in Montreal.
+              <Link to={"/about"} rel="next">
+                (More about me)
+              </Link>
             </p>
           </div>
         )
